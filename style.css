@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.a {
+    text-align: right;
+    background-color: aqua;
+    font-size: 18px;
+}
+
+.ab {
+    background-color: beige;
+    font-size: 15px;
+    background-color: yellow;
+}
+
+.top {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.ca {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.image {
+    text-align: center;
+    background-color: green;
+}
+
+.personal {
+    background-color: blueviolet;
+    font-size: 18px;
+}
+
+.objective {
+    font-size: 18px;
+    background-color: #66e9e9;
+}
+
+.academic {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+}
+
+.about {
+    background-color: red;
+    font-size: 18px;
+}
